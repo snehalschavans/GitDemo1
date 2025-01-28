@@ -19,6 +19,8 @@ public class StringReverse {
 		}
 		
  System.out.println("Hi I am changed");
+ System.out.println("Add no of changes");
+ System.out.println("Please check");
 	}
 
 	}
